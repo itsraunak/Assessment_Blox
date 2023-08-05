@@ -1,6 +1,5 @@
 ## Elaborate what your internship or academic projects were?
 
-Elaborate what your internship or academic projects were?
 During my internship at Deltanow Technologies, I worked as a Software Developer intern from January 2021 to April 2021.
 My primary project was to create a REST API for Payment Management and Attendance Tracking,
 which was integrated into the Gitam University website. The purpose of this system was to empower
